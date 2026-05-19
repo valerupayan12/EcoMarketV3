@@ -1,4 +1,4 @@
-package com.example.MicroEnviosV2.model;
+package com.example.EcoMarketSPA.model;
 
 import java.sql.Date;
 
