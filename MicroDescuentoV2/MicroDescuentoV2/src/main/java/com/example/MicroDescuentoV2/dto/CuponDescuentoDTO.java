@@ -11,7 +11,7 @@ public class CuponDescuentoDTO {
     @NoArgsConstructor
     @AllArgsConstructor
     public static class Request {
-
+//filtracion de informacion
         @NotBlank(message = "El RUT es obligatorio")
         @Size(min = 3, max = 10, message = "El ID debe tener entre 3 y 10 caracteres")
         private int id_cupon_descuento;
